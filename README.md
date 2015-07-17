@@ -1,2 +1,2 @@
 # jquery.fixedheader.js
-Fixed table header
+Fixed table header with support for jquery.tablesort
